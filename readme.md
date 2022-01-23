@@ -1,0 +1,1 @@
+Calculadora feita usando HTML, CSS e JavaScript.
